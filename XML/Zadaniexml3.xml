@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<root>
+<tabela>
+	<tr>
+		<td>Drzewo</td>
+		<td>Samochód</td>
+	</tr>
+</tabela>
+<tabela>
+	<nazwa>Bezcenny argentyński kaktus</nazwa>
+	<liczba_igiel>345</liczba_igiel>
+</tabela>
+</root>

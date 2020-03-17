@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<dane>
+	<imie>Adrian</imie>
+	<nazwisko>Nowak</nazwisko>
+	<data_urodzenia>1996-03-05</data_urodzenia>
+	<miejsca_zamieszkania>
+		<adres>
+			<miasto>Gdynia</miasto>
+			<ulica>Krakowska</ulica>
+			<numer>33</numer>
+			<lokal></lokal>
+		</adres>
+		<typ>Dom jednorodzinny</typ>
+		<adres>
+			<miasto>Lebork</miasto>
+			<ulica>Mieszczanska</ulica>
+			<numer>3</numer>
+			<lokal>22</lokal>
+		</adres>
+		<typ>Dom wielorodzinny</typ>
+	</miejsca_zamieszkania>
+</dane>
